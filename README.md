@@ -1,2 +1,3 @@
-# engEconProj
-World of Beercraft CHBE459 Engineering Economics Project
+# Our econ project! 
+
+Dont steal it  plz 
