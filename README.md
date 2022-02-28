@@ -1,3 +1,4 @@
 # Our econ project! 
 
-Dont steal it  plz 
+Live page hosted at:
+https://alvincheung.ca/econ_proj-master/index.html
